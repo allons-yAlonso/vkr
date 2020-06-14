@@ -1,0 +1,9 @@
+nbproject/*
+build/*
+.idea/*
+cmake-build-debug/*
+*.o
+*~
+vkr
+vkr2
+.qmake.stash
